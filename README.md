@@ -39,5 +39,4 @@
 ## Entregables
 - Documento de Requerimientos versión 1.0.
 - Lista priorizada de funcionalidades.
-
 - [Week 3](https://github.com/JerssonF/Week-3)
